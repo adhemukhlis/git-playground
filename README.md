@@ -1,3 +1,6 @@
 # git playground
 fenryr0 commit
-adhemukhlis commit new
+adhemukhlis commit revision
+
+fenryr here, add some revision
+
