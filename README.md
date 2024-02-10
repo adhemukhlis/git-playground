@@ -4,3 +4,7 @@ adhemukhlis commit new
 satu
 dua
 tiga
+
+some addition from mukhlis
+
+and then some activity
