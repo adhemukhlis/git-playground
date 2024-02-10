@@ -1,9 +1,11 @@
 # git playground
 fenryr0 commit
-adhemukhlis commit new
+adhemukhlis commit revision
 satu
 dua
 tiga
+empat
+lima
 
 some addition from mukhlis
 
