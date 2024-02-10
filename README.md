@@ -1,6 +1,6 @@
 # git playground
 fenryr0 commit
-adhemukhlis commit new
+adhemukhlis commit revision
 satu
 dua
 tiga
@@ -13,3 +13,5 @@ sdaaasd
 1. sadas
 2. asdaa
 3. rresda
+fenryr here, add some revision
+
