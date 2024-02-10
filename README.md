@@ -4,6 +4,8 @@ adhemukhlis commit revision
 satu
 dua
 tiga
+empat
+lima
 
 some addition from mukhlis
 
