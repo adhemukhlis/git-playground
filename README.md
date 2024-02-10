@@ -11,9 +11,9 @@ some addition from mukhlis
 
 and then some activity
 
-sdaaasd
-1. sadas
-2. asdaa
-3. rresda
+anime name
+1. sanar
+2. garou
+3. saitama
 fenryr here, add some revision
 
